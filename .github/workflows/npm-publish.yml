@@ -27,12 +27,10 @@ jobs:
         with:
           node-version: 16
           registry-url: https://registry.npmjs.org/
-     - run: npm ci
-     - run: npm run build
-     - run: npm run export
-     - run: touch ./out/.nojekyll
+      - run: npm ci
+      - run: npm run build
 
-     - name: Deploy 🚀
+      - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
           branch: gh-pages # The branch the action should deploy to.

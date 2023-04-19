@@ -1,9 +1,9 @@
-### PRIVACY POLICY
+### PRIVACY POLICY ✅
 
     Our Privacy Policy was updated on 1st April 2023. This privacy policy can provide privacy details on 
     how we manage your personal information for all our products and its services.
 
-## OUR COMMITMENT:
+## OUR COMMITMENT 🎯
 
     This Privacy Policy sets how CERPSOFT collect, use, disclose, process and protect any information 
     that you give us when you use our products and services located at www.cerpsoft.in and the services 
@@ -21,7 +21,7 @@
     summarized in this Privacy Policy, please contact info@cerpsoft.in to address your specific concerns. 
     We will be happy to address them directly.
 
-## TYPE OF INFORMATION COLLECTED:
+## TYPE OF INFORMATION COLLECTED 📝
 
     In order to provide our services to you, we will ask you to provide personal information that is 
     necessary to provide these services to you. If you do not provide your personal information we may 
@@ -30,7 +30,7 @@
     We will only collect the information that is necessary for its specified, explicit and legitimate purposes 
     and not further processed in a manner that is incompatible with these purposes.
 
-## THIRD PARTYS TERMS AND CONDITIONS:
+## THIRD PARTYS TERMS AND CONDITIONS 📌
 
     Our Privacy Policy does not apply to products and services offered by a third party. CERP products 
     and services may include third parties’ products, services and links to third parties’ websites. 
@@ -40,7 +40,7 @@
     We are not responsible for and cannot control how third parties use personal information which they 
     collect from you. Our Privacy Policy does not apply to other sites linked from our services.
 
-## SOCIAL MEDIA AND WIDGETS:
+## SOCIAL MEDIA AND WIDGETS 🔭
 
     Our websites include social media features, such as the Face book like button and widgets, such as 
     the Share this button or interactive mini-programs that run on our site. These features may collect 
@@ -51,52 +51,52 @@
     directly on our websites. Your interactions with these features are governed by the privacy policy of 
     the company providing it.
 
-### TERMS AND CONDITIONS
+# TERMS AND CONDITIONS ✅
 
-# System Installation & Setup
+# System Installation & Setup 🔧
 
     CERP provided the data capturing template in the excel sheet format for filling the data in all modules 
     in our application. The client team has to fill all the existing data needs to be populated in the 
     template provided for initial setup. SCHOOL to ensure data validation before upload the data.
 
-# User Training
+# User Training 📝
     
     User training is available with the application covering all the modules and company specific process 
     for the easy and uninterrupted operation. CERP will also provide technical support by our support 
     team whenever require by SCHOOL either through Team Viewer or over the Phone.
 
-# System Acceptance
+# System Acceptance 💷
 
     All software functionalities are tested by the users. On completion of the implementation no major 
     defects and the total minor defects shall be < 5% for system acceptance.
 
-# Go Live
+# Go Live 🚀
 
     With user training and system acceptance the application is ready for Go live. 
 
-# Support Escalation Process
+# Support Escalation Process 👫 
 
     In case of any concerns regarding resolution of issues, following escalation matrix can be followed.
     Incident Escalation Level Escalation Level Description
 
-    1 st Support Team (Online).
+    1st Support Team (Online).
 
     2nd Customer Support Manager (Phone / Mail).
 
     3rd Chief Technical Officer (Phone / Mail).
 
-### Accuracy of Description of Goods
+### Accuracy of Description of Goods ✋
 
     Any changes, additions, amendments proposed to the initial scope will only be considered 
     valid and the same will be amended in the next Version.
 
-## Quotations and Estimates
+## Quotations and Estimates 📜
 
     All prices quoted do not include Taxes and Govt. levies. These will be extra on actual.
 
     A quotation will not deem to constitute an offer to supply.
 
-## Payment
+## Payment 💰
 
     The payment shall be made online as per the terms accepted at the time of purchasing the 
     product.
@@ -115,7 +115,7 @@
     If there is delay from CERP for delivery of product, then after giving due notices and grace, 
     the client can move for refund to the satisfaction of both the parties.
 
-## Testing, Completion of Work & Delivery
+## Testing, Completion of Work & Delivery 📬
 
     The time and date stated for delivery is only an approximation and will depend upon the 
     various factors including information and coordination by client. It will be our endeavour to 
@@ -146,7 +146,7 @@
     We shall also not be responsible for system’s proper functioning if Client loads data into the 
     system using programs not provided or authorized by the company.
 
-## Warranty
+## Warranty ⚠️
 
     Our warranty does not cover loss or damage, expressed or implied including loss of earnings 
     or other costs incurred through the use of the software.
@@ -154,7 +154,7 @@
     We shall in no case be liable for indirect damage; loss of information or data, operating 
     interrupts other consequential loss or damage.
 
-## Infringement of Rights
+## Infringement of Rights 💷
 
     The client has to ensure that by providing any material, information, content, logo, business 
     process flow, design for use in development process, the copyright for the same is held by 
@@ -162,11 +162,11 @@
     agree to indemnify us for any such damage or liability caused by such copyright, patent, 
     trademark or industrial design or any other infringements.
 
-## Jurisdiction
+## Jurisdiction 🏰
 
     The jurisdiction in case of any disputes shall be of State of Karnataka/Tamilnadu.
     
-## Amendments and Cancellation
+## Amendments and Cancellation 🆗
 
     In case of any cancellation by the Client, CERP shall not be liable to refund any amounts 
     received towards the order.
@@ -183,7 +183,7 @@
     any support, which is required by our staff at the client’s premises, which does not form part 
     of the initial scope, shall be charged additionally on an hourly basis.
 
-## Product Development
+## Product Development 🔷
 
     All products developed by us will bear the “Powered by CERP” in the strap line situated at 
     the bottom of the page.
@@ -195,7 +195,7 @@
     its codes, code modules, designs and other components which may have been developed 
     on behalf of a client.
 
-## Errors and Liabilities
+## Errors and Liabilities 🔵
 
     The company shall take due care to provide the product free of errors. However, if any such 
     errors are detected, the company will undertake to correct the same immediately for a period 
@@ -209,11 +209,12 @@
     costs that relate to third party products that have been deployed for completion of the 
     project.
 
-## Support
+## Support ▶️
+
     The technology support and customer support are available during 10 am to 7 pm. If any 
     complaint raised after 7 PM the same will be attended by our Service team next working day.
 
-## Copyright & IPR
+## Copyright & IPR 🔰
 
     Unless specified otherwise, all quotations provided by CERP do not include any source code 
     license.
@@ -243,7 +244,7 @@
     The Company reserves the rights to change the server facilitating better performance when 
     version change is implemented.
 
-## CONTACT US:
+## CONTACT US ✅
 
     If you have any comments or questions about this Privacy Policy or any questions relating to CERP 
     collection, use or disclosure of your personal information, please contact our Service Department at 

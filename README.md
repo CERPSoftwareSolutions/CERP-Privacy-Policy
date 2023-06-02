@@ -254,3 +254,6 @@
     #22 1ST MAIN, 2ND CROSS, GUNI AGRAHARA
     MATHRUSHREE LAYOUT, KALATHAMANAHALLI MAIN ROAD,
     SHIVKOTE POST, BANGALORE 560089
+
+## Author
+- [Gowtham Sankar Gunasekaran](https://github.com/GouthamGuna)

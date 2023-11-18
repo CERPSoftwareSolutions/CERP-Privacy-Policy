@@ -256,4 +256,4 @@
     SHIVKOTE POST, BANGALORE 560089
 
 ## Author
-- [Gowtham Sankar Gunasekaran](https://github.com/GouthamGuna)
+- [Gowtham Sankar Gunasekaran](https://gouthamguna.github.io/in/)
